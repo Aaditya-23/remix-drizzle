@@ -4,4 +4,4 @@ import { sql } from "@vercel/postgres";
 import * as schema from "./schema.server";
 
 export const db = drizzle(sql, { schema });
-migrate(db, { migrationsFolder: "app/db/migrations" });
+migrate(db, { migrationsFolder: "./app/db" });
