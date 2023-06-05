@@ -5,22 +5,8 @@
     {
       "idx": 0,
       "version": "5",
-      "when": 1685566368365,
-      "tag": "0000_many_zaran",
-      "breakpoints": false
-    },
-    {
-      "idx": 1,
-      "version": "5",
-      "when": 1685567870903,
-      "tag": "0001_hot_plazm",
-      "breakpoints": false
-    },
-    {
-      "idx": 2,
-      "version": "5",
-      "when": 1685567899320,
-      "tag": "0002_open_princess_powerful",
+      "when": 1685989797593,
+      "tag": "0000_good_earthquake",
       "breakpoints": false
     }
   ]
